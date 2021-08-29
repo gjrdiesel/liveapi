@@ -1,5 +1,7 @@
 # LiveAPI
 
+<a href="https://hub.docker.com/r/gjrdiesel/liveapi" target="_blank"><img src="https://img.shields.io/badge/docker-hub-blue?logo=docker"></a>
+
 Fetch the current wait status at a location and see how busy or not busy they are.
 
 ```bash
