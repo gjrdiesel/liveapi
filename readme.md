@@ -6,7 +6,7 @@ Fetch the current wait status at a location and see how busy or not busy they ar
 
 ```bash
 $ curl --request GET \
-  --url http://10.0.2.3:3002/ \
+  --url http://localhost:3002/ \
   --header 'Content-Type: application/json' \
   --data '{
 	"query": "statue+of+liberty"
